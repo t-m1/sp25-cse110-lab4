@@ -10,9 +10,13 @@
 10. 3 will be written to the console because that is the length of prices.
 11. This function will return a list of the discounted prices: [50, 100, 150]. Each of the prices will be cut in half, due to each element being multiplied by 0.5.
 12. f
-  - T
-  - T
-  - T
-  - T
-  - T
-14. f
+  - student.name
+  - student["Grad Year"]
+  - student.greeting()
+  - student["Favorite Teacher"].name
+  - student.courseLoad[0]
+13. c
+14. c
+15. 
+16. g
+17. 
