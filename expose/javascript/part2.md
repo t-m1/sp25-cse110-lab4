@@ -15,8 +15,25 @@
   - student.greeting()
   - student["Favorite Teacher"].name
   - student.courseLoad[0]
-13. c
-14. c
-15. 
-16. g
-17. 
+13. 
+  - '32'because integer maps to string representation.
+  - 1 because 3 becomes a string.
+  - 3 because null is the same as 0.
+  - '3null' because null gets turned into a string.
+  - 4 because true maps to 1.
+  - 0 because false and null are 0.
+  - '3undefined' because undefined gets turned into a string.
+  - NaN because 3 is being subracted by an undefined number.
+14. 
+  - true, string becomes a number.
+  - false, 2 is greater than 1.
+  - true, string becomes a number.
+  - false, different types.
+  - false, true is equal to 1.
+  - true, Boolean(2) is equal to true.
+
+15. The difference between == and === is that == just compares the value after type conversion, while === compares both the value and the type.
+16. javascript file
+17. f
+18. javascript file
+19. 
