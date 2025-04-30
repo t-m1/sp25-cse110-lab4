@@ -34,6 +34,6 @@
 
 15. The difference between == and === is that == just compares the value after type conversion, while === compares both the value and the type.
 16. javascript file
-17. f
+17. The result is [2,4,6]. The doSomething function is passed into the modifyArray function, which means that each element in the array is multiplied by 2. 
 18. javascript file
-19. 
+19. The output is in the order of 1, 4, 3, 2.
